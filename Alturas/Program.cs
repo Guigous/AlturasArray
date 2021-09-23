@@ -27,7 +27,7 @@ namespace Alturas
             }
             //Resultado          
             double a = Doublearray.Sum();
-            Console.WriteLine(a/x);
+            Console.WriteLine("A Média das alturas é : " + a/x);
             
         }
     }
